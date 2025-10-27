@@ -1,0 +1,3 @@
+/Users/alexey/OpenCVTest/build/CMakeFiles/DisplayImage.dir
+/Users/alexey/OpenCVTest/build/CMakeFiles/edit_cache.dir
+/Users/alexey/OpenCVTest/build/CMakeFiles/rebuild_cache.dir
